@@ -1,6 +1,6 @@
 # Skills et plugins Claude
 
-Collection de skills et plugins pour Claude Code (0 skills).
+Collection de skills et plugins pour Claude Code (1017 skills).
 
 ## Sources
 | Source | Contenu |
